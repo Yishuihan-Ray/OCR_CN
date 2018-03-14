@@ -1,0 +1,5 @@
+参考ocr
+http://www.cnblogs.com/skyfsm/p/8436820.html
+
+中文OCR *****
+https://github.com/chineseocr/chinese-ocr
